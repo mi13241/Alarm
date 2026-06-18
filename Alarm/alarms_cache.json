@@ -1,0 +1,26 @@
+[
+  {
+    "id": "b234c9f5",
+    "hour": 7,
+    "minute": 0,
+    "active": true,
+    "triggered": false,
+    "sound": "standard"
+  },
+  {
+    "id": "d7314045",
+    "hour": 16,
+    "minute": 42,
+    "active": true,
+    "triggered": false,
+    "sound": "standard"
+  },
+  {
+    "id": "5b5668eb",
+    "hour": 16,
+    "minute": 44,
+    "active": false,
+    "triggered": false,
+    "sound": "standard"
+  }
+]
